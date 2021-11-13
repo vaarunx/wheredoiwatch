@@ -1,0 +1,24 @@
+
+
+#body{
+    overflow: hidden;
+    position: relative;  
+    }
+
+img {
+    opacity: 0.5;
+}
+
+.img-bg{
+    opacity: 0.2;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+
+.img-content{
+    position: relative;
+
+}
